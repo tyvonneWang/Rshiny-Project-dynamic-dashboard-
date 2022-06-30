@@ -1,4 +1,4 @@
-# typrojects
+
 R-shiny Project Description
 
 To analyze determinants of the listing price and optimize the Airbnb Pricing Strategy, I created a dynamic dashboard using R shiny that outputs statistical plots based on the Airbnb rentals system database. Determinants include price variation, listing category, reviews, GDP, keyword sentiment analysis, and demand seasonality.
